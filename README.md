@@ -105,7 +105,6 @@ glass-pool-visualizer/
 
 ## 📸 Screenshots
 
-_Add screenshots here to showcase the UI and Node-RED flow._
 
 ---
 
