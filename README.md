@@ -91,11 +91,8 @@ http://127.0.0.1:1880/ui/
 
 ```
 glass-pool-visualizer/
-├── public/
-│   └── index.html
-├── src/
-│   ├── main.js         # Three.js logic
-│   └── style.css       # Custom styles
+├── index.html
+├── main.js         # Three.js logic
 ├── NodeRed.json        # Node-RED flow for real-time control
 ├── package.json
 └── README.md
